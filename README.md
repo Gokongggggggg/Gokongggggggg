@@ -13,7 +13,7 @@ Here are some of the projects I'm proud of, which were built for national-level 
 * **Smart Sleep Lamp (IoT)**
     * Achieved **Top 1000 / 10,000 (Top 10%)** in the **Samsung Innovation Campus** competition.
     * Built a full-stack, mentor-approved IoT prototype using ESP32 (MicroPython), Flask, and MongoDB.
-    * [**(View Project Repository)**]([https://github.com/Gokongggggggg/NAMA-REPO-SAMSUNG-MU](https://github.com/Gokongggggggg/ISFAMILY-SIC-6)
+    * [**(View Project Repository)**]([https://github.com/Gokongggggggg/ISFAMILY-SIC-6])
       
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wiselyjh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wiselyhalim11@gmail.com) 
