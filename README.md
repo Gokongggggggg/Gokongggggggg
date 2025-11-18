@@ -3,16 +3,21 @@
 
 ## 🏆 Achievements & Featured Projects
 
-Here are some of the projects I'm proud of, which were built for national-level competitions:
+Here are some of the Achievements & projects I'm proud of, which were built for national-level competitions:
+
+### Achievements
+* **Top 3% (Rank 7 / 261)** at COMPFEST 17 DSA Selection (Led team `Datamate`).
+* **Top 10% (1000 / 10,000)** at Samsung Innovation Campus competition.
+
+### Featured Projects
 
 * **Energy Consumption Forecast (Data Science)**
-    * Led team `Datamate` to **Rank 7 / 261 (Top 3%)** in the **COMPFEST 17 DSA Selection**.
-    * Engineered over 200 features to build a high-performing LightGBM forecasting model.
+    * Engineered over 200 features to build a high-performing LightGBM forecasting model for the **COMPFEST 17 DSA Selection**.
     * [**(View Project Repository)**](https://github.com/Gokongggggggg/Compfest_DS)
 
 * **Smart Sleep Lamp (IoT)**
-    * Achieved **Top 1000 / 10,000 (Top 10%)** in the **Samsung Innovation Campus** competition.
-    * Built a full-stack, mentor-approved IoT prototype using ESP32 (MicroPython), Flask, and MongoDB.
+    * Built a full-stack, mentor-approved IoT prototype (ESP32, MicroPython, Flask, and MongoDB) during the Samsung Innovation Campus program.
+    * Received high appreciation from mentors for its implementation and concept, despite not being selected to advance.
     * [**(View Project Repository)**](https://github.com/Gokongggggggg/ISFAMILY-SIC-6)
       
 ## 🌐 Socials:
