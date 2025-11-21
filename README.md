@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>I'm a second-year Computer Science student currently focusing on Data Science.<br><br>* **Current Focus:** Completing the **IBM Data Professional Certificate** on Coursera.<br>* **Interests:** I love **all things competitive** and enjoy doing things that most people don't usually do.<br>* **Environment:** I find I learn best in a competitive and fast-paced environment.<br>
+### Hi there 👋<br><br>I'm a second-year Computer Science student currently focusing on Data Science.<br><br>* **Current Focus:** Completing the **IBM Data Professional Certificate** on Coursera.<br>* **Interests:** I love **all things competitive** and enjoy doing things that most people don't usually do.<br>* **Environment:** I find I learn best in a competitive and fast-paced environment.<br>* **Free Time:** I do **Competitive Programming** when I am bored.<br>
 
 ## 🏆 Achievements & Featured Projects
 
