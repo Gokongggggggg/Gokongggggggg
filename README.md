@@ -6,8 +6,8 @@
 Here are some of the Achievements & projects I'm proud of, which were built for national-level competitions:
 
 ### Achievements
-* **Top 3% (Rank 7 / 261)** at COMPFEST 17 DSA Selection (Led team `Datamate`).
-* **Top 10% (1000 / 10,000)** at Samsung Innovation Campus competition.
+* **Top 3% (Rank 7 / 261)** at COMPFEST 17 DSA Selection (Team Leader of `Datamate`).
+* **Top 10% (1000 / 10,000)** at Samsung Innovation Campus competition (Team Leader of `ISFAMILY`).
 
 ### Featured Projects
 
