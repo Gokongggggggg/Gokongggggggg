@@ -58,9 +58,6 @@ An experiment focused on helping everyday users make safer decisions when exchan
 ---
 
 
-
-# 🌐 Connect
-
 <p align="center">
   <a href="https://app.hackthebox.com/users/2885938">
     <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
